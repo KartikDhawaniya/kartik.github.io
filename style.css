@@ -1,0 +1,21 @@
+.cont{
+	padding: 50px;
+	margin: 50px;
+	width =80%;
+	background-color: #9fe2bf;
+}
+
+body{
+	padding: 50px;
+	background-color: white;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.head{
+	text-align: center;
+	font-size: 40;
+	color: #ffffff;
+}
